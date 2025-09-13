@@ -52,7 +52,7 @@ const tools = [
 
 export default function GenerateGrid() {
   return (
-    <div className="px-6 py-8 bg-gray-50 dark:bg-neutral-900">
+    <div className="px-6 py-8 bg-gray-50 dark:bg-neutral-900 text-black dark:text-white">
       {/* Section Header */}
       <div className="flex justify-between items-center mb-6">
         <h3 className="text-lg font-semibold dark:text-white">Generate</h3>

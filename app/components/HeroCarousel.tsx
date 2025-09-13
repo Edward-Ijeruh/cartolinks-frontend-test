@@ -127,7 +127,7 @@ export default function HeroCarousel() {
           </div>
 
           {/* Arrows */}
-          <div className="flex gap-3 mt-3">
+          <div className="flex gap-3 mt-3 text-black dark:text-white">
             <button className="p-2 rounded-full bg-gray-100 dark:bg-neutral-800 hover:bg-gray-200 dark:hover:bg-neutral-700 shadow">
               <ChevronLeft size={20} />
             </button>

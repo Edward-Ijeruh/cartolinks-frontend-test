@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <div className="mt-12">
       {/* Gallery Section Header */}
-      <div className="flex justify-between items-center px-6 mb-4 ">
+      <div className="flex justify-between items-center px-6 mb-4 text-black dark:text-white">
         <h3 className="text-lg font-semibold dark:text-white">Gallery</h3>
         <div className="flex gap-2">
           <button className="flex items-center gap-1 px-3 py-1 rounded-md bg-gray-100 dark:bg-neutral-800 hover:bg-gray-200 dark:hover:bg-neutral-700 transition text-sm font-medium">
